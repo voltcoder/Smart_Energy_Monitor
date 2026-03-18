@@ -8,3 +8,10 @@ This project simulates an energy monitoring system using Python.
 - Cost estimation
 - Power trend visualization
 
+## Tools Used:
+- Python
+- Matplotlib
+- Pandas
+
+Author: Swati Sharma|| @voltcoder
+Electrical Engineering Graduate
