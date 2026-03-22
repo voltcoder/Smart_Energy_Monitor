@@ -69,6 +69,13 @@ Smart-Energy-Monitor/
 pip install matplotlib
 
 3. Run the main program:
+python smart_energy_monitor.py
+4. Run graph file:
+python graph.py
+
+---
+
+## Sample Output
 
 Author: Swati Sharma|| @voltcoder
 Electrical Engineering Graduate
