@@ -1,17 +1,59 @@
-# Smart Energy Monitor (Software Version)
+## Smart Energy Monitor (Software Simulation)
 
-This project simulates an energy monitoring system using Python.
+This project is a software-based simulation of a Smart Energy Monitoring System, inspired by real-world IoT energy monitoring devices.  
 
-## Features:
-- Real-time power calculation
-- Energy consumption tracking
-- Cost estimation
-- Power trend visualization
+It demonstrates how electrical parameters like voltage, current, power, energy consumption, and cost estimation can be calculated and visualized using Python.
 
-## Tools Used:
-- Python
-- Matplotlib
-- Pandas
+---
+
+## Project Objective
+
+The goal of this project is to simulate a system that:
+
+- Monitors electrical power consumption in real-time  
+- Calculates energy usage (kWh)  
+- Estimates electricity cost  
+- Visualizes consumption trends  
+
+This project mimics real smart grid and IoT-based monitoring systems used in industries and homes.
+
+---
+
+## Concepts Covered
+
+This project is based on core Electrical Engineering concepts:
+
+- Electrical Power Calculation: P = V × I  
+- Energy Consumption: Energy = Power × Time  
+- Unit Conversion (W to kWh)  
+- Cost Estimation (₹ per unit)  
+- Data Simulation  
+- Data Visualization  
+
+---
+
+## Technologies Used
+
+- Python  
+- Matplotlib  
+- Random module  
+
+---
+
+## Features
+
+- Simulates real-time voltage and current values  
+- Calculates instantaneous power  
+- Tracks total energy consumption  
+- Estimates electricity cost  
+- Displays power consumption graph  
+- Beginner-friendly implementation  
+
+---
+
+## Project Structure
+
+
 
 Author: Swati Sharma|| @voltcoder
 Electrical Engineering Graduate
