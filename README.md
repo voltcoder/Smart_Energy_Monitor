@@ -53,6 +53,12 @@ This project is based on core Electrical Engineering concepts:
 
 ## Project Structure
 
+Smart-Energy-Monitor/ 
+│
+├── smart_energy_monitor.py
+├── graph.py 
+└── README.md
+
 
 
 Author: Swati Sharma|| @voltcoder
