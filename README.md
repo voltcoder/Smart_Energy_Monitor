@@ -59,8 +59,16 @@ Smart-Energy-Monitor/
 |---graph.py 
 |---README.md
 
+---
 
+## How to Run
 
+1. Install Python (version 3.x recommended)
+2. Install required library:
+   
+pip install matplotlib
+
+3. Run the main program:
 
 Author: Swati Sharma|| @voltcoder
 Electrical Engineering Graduate
